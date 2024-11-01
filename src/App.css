@@ -22,7 +22,7 @@ body, html {
     font-size: 1.5em;
     text-decoration: none;
     color: #fff;
-    background-color: #7ed49a;
+    background-color: #396bb6;
     padding: 10px 20px;
     border-radius: 5px;
     margin: 10px;
@@ -30,7 +30,7 @@ body, html {
   }
   
   .button-link:hover {
-    background-color: #52c077;
+    background-color: #0b50b8;
   }
   
   .button-link + .button-link {

@@ -21,7 +21,7 @@ h4{
   padding: 20px;
   border: 1px solid #0e0303;
   border-radius: 8px;
-  background-color: #d0f5eb;
+  background-color: #a7b4dd;
   user-select: none;
 }
 
@@ -48,7 +48,7 @@ th, td {
 }
 
 .class-button {
-  background-color: #10a585;
+  background-color: #101aa5;
   color: white;
   position: relative;
   justify-content: center;
@@ -63,7 +63,7 @@ th, td {
 }
 
 button:hover {
-  background-color: #10a585;
+  background-color: #3234be;
 }
 
 .modal-overlay {
